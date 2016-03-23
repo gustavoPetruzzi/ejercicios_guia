@@ -22,9 +22,10 @@ int main()
         }
         else
         {
-            if(productNegative == 0)
+            if(flagNoNegative == 1)
             {
                 productNegative = 1;
+                flagNoNegative = 0;
             }
             productNegative = productNegative * numberUser;
         }
