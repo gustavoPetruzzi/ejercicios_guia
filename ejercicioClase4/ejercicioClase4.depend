@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1459282789 source:i:\documents and settings\gustavo\escritorio\c\ejercicioclase4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1459280854 source:i:\documents and settings\gustavo\escritorio\c\ejercicioclase4\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1459280759 i:\documents and settings\gustavo\escritorio\c\ejercicioclase4\utn.h
+
