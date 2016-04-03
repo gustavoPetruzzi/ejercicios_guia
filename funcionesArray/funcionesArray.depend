@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1459642711 source:/home/yusti/Escritorio/C/GuiaC/funcionesArray/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1459642702 source:/home/yusti/Escritorio/C/GuiaC/funcionesArray/funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1459642702 /home/yusti/Escritorio/C/GuiaC/funcionesArray/funciones.h
+
